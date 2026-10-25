@@ -14,14 +14,14 @@
 - 🛠️ Especializado em **Digital Analytics, Análises Estatísticas e Data Visualization**
 - 💼 Em busca de oportunidades como **Analista de Dados / Digital Analytics** em São Paulo (presencial, híbrido ou remoto)
 - 🗂️ Portfolio: [**Notion - Felipe Cestari**](https://felipecestari.notion.site/Portfolio-bb4cd8bdc3ad825dab148192d2d58a2d)
-- 📝 [**Currículo**](https://github.com/felipecestari/files/CV_Felipe_Cestari.pdf) - baixe aqui meu CV no formato pdf
+- 📝 [**Currículo**](files/CV_Felipe_Cestari.pdf) - baixe aqui meu CV no formato pdf
 
 ---
 
 ## 📚 Projetos
 
 - ⛽ [**Dispersão Regional de Preços do Etanol entre Bandeiras de Combustíveis no Brasil**](https://github.com/felipecestari/combustiveis_eda) - Análise exploratória e estatística sobre como o preço do Etanol Hidratado varia entre bandeiras de combustíveis (Ipiranga, Vibra, Raízen, ALE, entre outras) e entre estados brasileiros, usando dados públicos da ANP.
-- ⛁ [**Pipeline de Dados no Databricks com dataset da Olist**](https://github.com/felipecestari/pipeline-dados-olist-databricks) - projeto de Engenharia de Dados para estudo e aplicação dos conceitos de arquitetura medalhão dentro do Databricks.
+- ⛁ [**Pipeline de Dados no Databricks com dataset da Olist**](https://github.com/felipecestari/pipeline-dados-olist-databricks) - Projeto de Engenharia de Dados para estudo e aplicação dos conceitos de arquitetura medalhão dentro do Databricks.
 - 🎓 [**TCC do MBA em Data Science & Analytics da USP**](https://github.com/felipecestari/tcc-mba-usp) - Análise da relação entre benefícios atributos de cartões de créditos para insights de novas ofertas de marketing usando **Análise de Correspondência Múltipla (ACM)** e **Mapa Perceptual**.
 
 ---
